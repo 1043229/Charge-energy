@@ -79,5 +79,11 @@ body {
 
 main {
     margin-left: 10vw;
-    border: 1px solid blue;
+}
+
+.text {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    padding: 50px;
 }

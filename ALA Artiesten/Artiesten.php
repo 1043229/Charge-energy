@@ -37,3 +37,24 @@
 <main>
 <div id="test" style="height: 600px; width: 1200px; background-size:cover; border-radius: 50%;"></div>
 </main>
+
+<footer>
+<section class="text">
+
+<article>
+<h1>LIL KLEINE</h1>
+<p>Dit is lil kleine</p>
+</article>
+
+<article>
+<h1>BOEF</h1>
+<p>Dit is lil kleine</p>
+</article>
+
+<article>
+<h1>RONNIE FLEX</h1>
+<p>Dit is lil kleine</p>
+</article>
+
+</section>
+</footer>
