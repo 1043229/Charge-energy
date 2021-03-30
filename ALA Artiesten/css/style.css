@@ -7,7 +7,41 @@
 @media only screen and (max-width: 600px){
     #bigscreen {display: none;}
     #mobile {display: block;}
-
+    
+    body {
+        height: 100%;
+        width: 100%; 
+    }
+    .banner {
+        display: none;
+    }
+    .navbar {
+        display: none;
+    }
+    #logo {
+        display: none;
+    }
+    .navbar ul li {
+        display: none;
+    }
+    .navbar ul li a {
+        display: none;
+    }
+    .navbar ul li::after{
+        display: none;
+    }
+    .navbar ul li:hover::after {
+        display: none;
+    }
+    main {
+        display: none;
+    }
+    .text { 
+        display: none;
+    }
+    .text h1 {
+        display: none;
+     }
 
 }
 
