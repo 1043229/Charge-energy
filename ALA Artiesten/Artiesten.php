@@ -35,5 +35,5 @@
 </div>
 
 <main>
-<div id="test" style="height: 600px; width: 1200px; background-size:cover;"></div>
+<div id="test" style="height: 600px; width: 1200px; background-size:cover; border-radius: 50%;"></div>
 </main>
