@@ -35,7 +35,7 @@
 </div>
 
 <main>
-<div id="test" style="height: 600px; width: 1200px; background-size:cover; border-radius: 50%;"></div>
+<div id="test" style="height: 600px; width: 1195px; background-size:cover; border-radius: 50%;"></div>
 </main>
 
 <footer>
@@ -43,17 +43,34 @@
 
 <article>
 <h1>LIL KLEINE</h1>
-<p>Dit is lil kleine</p>
+<p>Lil' Kleine, de artiestennaam van Jorik Scholten, is<br>
+een Nederlands muzikant en acteur. Met Danny de<br> 
+Munk bereikte hij de Top 100 met het nummer Zo<br>
+verdomd alleen. Samen met Ronnie Flex kwam hij<br>
+met het nummer Drank & Drugs in 2015 op nummer 1<br>
+in de Top 100 en verdiende hij een dubbelplatina plaat.</p>
 </article>
 
 <article>
 <h1>BOEF</h1>
-<p>Dit is lil kleine</p>
+<p>Sofiane Boussaadia, beter bekend als Boef<br>
+ is een Nederlandstalige rapper, vlogger en<br>
+ondernemer met de Algerijns-Franse nationaliteit.<br>
+ Binnen een jaar na zijn start in 2015 behoorde<br>
+ hij na Lil' Kleine en Ronnie Flex tot de populairste<br>
+  rappers van Nederland. Hij bracht een<br>
+  album uit en verschillende singles.</p>
 </article>
 
 <article>
 <h1>RONNIE FLEX</h1>
-<p>Dit is lil kleine</p>
+<p>Ronell Langston Plasschaert, beter bekend<br>
+als Ronnie Flex, is een Nederlandse rapper,<br>
+zanger en producer. Hij staat onder contract<br>
+bij platenlabel Top Notch en verwierf<br>
+bekendheid met zijn hit Zusje. Andere bekende<br>
+hits zijn Zeg dat niet en Drank & Drugs,<br>
+waarop Lil' Kleine ook te horen is.</p>
 </article>
 
 </section>
